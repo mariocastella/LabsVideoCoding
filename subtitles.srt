@@ -1,0 +1,7 @@
+1
+00:00:04,005 --> 00:00:06,800
+avui hi ha practica de video!
+
+2
+00:00:06,001 --> 00:00:09,001
+Ostia ya son les 4 de la tarda? Quina son
